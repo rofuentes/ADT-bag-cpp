@@ -1,5 +1,5 @@
 TESTSOURCE=test.cpp
-DRIVER=bag.cpp
+DRIVER=ArrayBagDriver.cpp
 # Declare variables for compiler and flags
 # Use latest gcc on Ubuntu 18.04
 # -std=gnu++14  2014 ISO C++ standard plus amendments (plus GNU extensions)
